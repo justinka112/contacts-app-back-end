@@ -9,7 +9,7 @@ To develop this app we used the following programming elements:
 -file input/output (write/read)
 
 
-'''py
+```py
 import random
 import turtle
 colors = ['red','cyan','pink','yellow','green','orange']
@@ -32,4 +32,4 @@ for i in range(length):
       t.end_fill()
 turtle.exitonclick()
 turtle.bgcolor("black")
-'''
+```
